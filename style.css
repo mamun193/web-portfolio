@@ -1,0 +1,12 @@
+body {
+     font-family: 'Cormorant Garamond', serif;
+     padding: 5px;
+}
+
+h1 {
+     font-size: 50px;
+}
+
+.text_hilight {
+     color: darkorange;
+}
