@@ -26,11 +26,11 @@ h3 {
 .top-banner {
      background-image: url(top-banner.png);
      background-repeat: no-repeat;
-     border-bottom: solid;
 }
 
 section {
      height: 500px;
+     padding-bottom: 150px;
 }
 
 img {
@@ -44,4 +44,10 @@ img {
      color: white;
      font-weight: 700px;
      padding: 3px;
+}
+
+.dream-area {
+     background-image: url(images/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
 }
